@@ -1,0 +1,76 @@
+/* Seksyen 1 */
+.seksyen1{
+    background-image: url(https://thumbs.dreamstime.com/b/side-view-overturned-transparent-glass-jar-roasted-coffee-beans-sweet-chocolate-candies-stone-board-over-vintage-112979484.jpg);
+    background-size: cover;
+    text-align: center;
+    padding: 7% 15% 7%;
+}
+
+.banner{
+    text-align: center;
+}
+
+.Choco{
+    color: darkorange;
+}
+
+.tulisanbawah{
+    color: bisque;
+}
+
+/* seksyen 2 */
+
+.seksyen2{
+    background-color: #FFEBC1;
+    background-size: cover;
+    text-align: center;
+    padding: 7% 15% 7%;
+}
+
+.icon{
+    color: #A64B2A;
+    margin-bottom: 1rem;
+}
+
+.seksyen3{
+    background-color: coral;
+    padding: 7% 15% 7%;
+    text-align: center; 
+}
+
+h2{
+    font-family: 'Grape Nuts', cursive;
+    color: #FFEBC1;
+}
+
+h1{
+    font-family: 'Grape Nuts', cursive;
+}
+
+.navbar{
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+h3{
+    text-align: center;
+}
+
+.seksyen4{
+    background-color: bisque;
+    padding: 5%;
+    text-align: center;
+}
+
+.seksyen5{
+    background-color: #A64B2A;
+    padding: 5% 20% 5%;
+    text-align: left;
+    color: #FFEBC1;
+}
+
+.footer{
+    color: #FFEBC1;
+}
+
+
+
